@@ -1,9 +1,9 @@
 IDCoin
 ======
 
-Identity and Reputation Based Coin Supporting a Web of Trust
+Identity and Reputation Cryptocurrency Coinbase Supporting a Web of Trust
 
-This is an exploratory concept coin based in part on GPG PGP with Degrees of Separation Web of Trust as well as reputation based on txfee's.
+This is an exploratory concept Bitcoin-like system based in part on GPG/PGP with a Degrees of Separation Web of Trust as well as reputation based on txfee's to be paid to miners.
 
 A Coinbase for Identity and Reputation
 
