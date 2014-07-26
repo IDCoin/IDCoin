@@ -34,3 +34,13 @@ In fact our current design allows you the ability to link a TXID from any other 
 In our IDCoin model Web of Trust, you could leverage Notary Publics who have been DEPUTIZED by institutions you find credible to perform key-signing services. For example, we conceive of a system that would support say Rotary International to use our system as a public ledger for their membership roster. In fact with our IDCoin ANYONE could obtain and demonstrate AFFINITY with any organization they so choose to. It can act as a TRANSCRIPT or a RESUME/CV -- your company could digitally acknowledge that you are an employee from some period of time. Your performance could be logged if you so choose to use it that way.
 
 IDCoin could be used to take credit for ANY transaction in any other blockchain. Our current designs include the ability to insert FOREIGN_TX into the chain that would include CHAIN and TXID. From there you could find the ADDRESSES and AMOUNT. Of course you would have to take credit for an address first -- this OPT-IN method completely de-anonymizes the crypto-currency transaction which may be required in the future by some financial institutions.
+
+Most of the Identity and web-of-trust ideas come from the PGP/GPG world...
+
+But what we're hoping to do is:
+
+1. Incentivize people to create keys and use them!
+2. Make the web-of-trust easier to navigate (and display!) using social-graph techniques
+3. Make key-signing easier AND 
+4. Create an intersection with existing identity verification services such as Notary Publics (in the US for example)
+
