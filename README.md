@@ -9,6 +9,10 @@ Gathering feedback right now at https://startjoin.com/IDCoin
 
 Bitcointalk Forum: https://bitcointalk.org/index.php?topic=711305.0
 
+Twitter: https://twitters.com/IDCoins
+
+Facebook: https://facebook.com/IDCoins
+
 A Coinbase for Identity and Reputation
 
 IDCOIN will be designed to be an 80/20 Proof of Stake / Proof of Work based blockchain that will establish both Identity as well as Reputation in a public ledger.
