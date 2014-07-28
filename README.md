@@ -7,6 +7,8 @@ This is an exploratory concept Bitcoin-like system based in part on GPG/PGP with
 
 Gathering feedback right now at https://startjoin.com/IDCoin
 
+Bitcointalk Forum: https://bitcointalk.org/index.php?topic=711305.0
+
 A Coinbase for Identity and Reputation
 
 IDCOIN will be designed to be an 80/20 Proof of Stake / Proof of Work based blockchain that will establish both Identity as well as Reputation in a public ledger.
