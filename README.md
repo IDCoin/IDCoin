@@ -9,7 +9,7 @@ Gathering feedback right now at https://startjoin.com/IDCoin
 
 Bitcointalk Forum: https://bitcointalk.org/index.php?topic=711305.0
 
-Twitter: https://twitters.com/IDCoins
+Twitter: https://twitter.com/IDCoins
 
 Facebook: https://facebook.com/IDCoins
 
