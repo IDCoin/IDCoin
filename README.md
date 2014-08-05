@@ -31,7 +31,7 @@ With IDCoin you could instantly determine if someone's +5 rating actually meant 
 
 With a Web of Trust model you could choose to transact with people and business that are say only within 3 or 4 degree's of separation. In this way you could completely detect and ignore any "astro-turfing."
 
-IDcoin is different than http://identifi.org in that it will be based on PGP/GPG and will work to create plugins to support email clients. In this way you could generate coins just by sending an encrypted email.
+IDcoin is different than http://identifi.org in that it will be based on PGP/GPG and will work to leverage existing plugins to support email clients. In this way you could generate coins just by sending an encrypted email.
 
 IDcoin will also differentiate itself from Namecoin (NMC) though we would absolutely look at ways to potentially leverage it as well. The general problem with block-chain based approaches is the current need to have clients download and maintain their own copy. This should absolutely be an OPTION but not a hard REQUIREMENT -- we conceive of a model through the Web of Trust that you could elect to essentially ATTACH to any public node that has a sufficient level of TRUST associated with it based on your own own level of confidence within whatever degrees of separation you're willing to permit. In this way the system supports a variant of check-pointing.
 
