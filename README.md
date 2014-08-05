@@ -29,7 +29,7 @@ You would be able to determine with a high degree of confidence WHO the identity
 
 With IDCoin you could instantly determine if someone's +5 rating actually meant anything especially if they gave everyone +5. You could instantly baseline the feedback.
 
-With a Web of Trust model you could choose to transact with people and business that are say only within 3 or 4 degree's of separation. In this way you could completely detect and ignore any asto-turfing.
+With a Web of Trust model you could choose to transact with people and business that are say only within 3 or 4 degree's of separation. In this way you could completely detect and ignore any "astro-turfing."
 
 IDcoin is different than http://identifi.org in that it will be based on PGP/GPG and will work to create plugins to support email clients. In this way you could generate coins just by sending an encrypted email.
 
