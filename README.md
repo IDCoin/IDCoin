@@ -59,3 +59,6 @@ What do we care if random bots or spammers sign our key? We do not have to ackno
 To keep SPAM out of the chain as well as minimize AFFINITY seeking agents our current thoughts on the design would use a two-phase commit system before accepting certain transactions into the blockchain.
 
 For example, both parties to a transaction could digitally sign the TXID from their private keys (since the transaction is publicly disclosed and the public addresses are known) -- you could instantly confirm whether the transaction was mutually beneficial -- versus having someone try and spam by sending small amounts to a known identity (known as DUSTING) -- once the transaction was ACKNOWLEDGED then both parties would be free to provide REPUTATION tokens to that event without fear of censure.  This means that you could leave positive or negative or even neutral feedback without fear of reprise.  And since the feedback can be amended, it gives both parties an opportunity to CURE any dissatisfaction over time.
+
+IDCoins could also be used in a two-factor authentication system, potentially in concert with OpenID providers.  We conceive of a model where fractions of IDCoin could be transacted between known addresses instead of using a password.  Essentially using the wallet as a one-time password vault.
+
