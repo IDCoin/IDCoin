@@ -62,3 +62,13 @@ For example, both parties to a transaction could digitally sign the TXID from th
 
 IDCoins could also be used in a two-factor authentication system, potentially in concert with OpenID providers.  We conceive of a model where fractions of IDCoin could be transacted between known addresses instead of using a password.  Essentially using the wallet as a one-time password vault.
 
+The IDCoin blockchain would essentially be currency and transaction AGNOSTIC.
+
+This means that individuals using something like KIVA.org could take credit for repaying their micro loans back!
+
+What this means is that we could create an open/public ledger that could render credit reporting bureaus largely irrelevant.
+
+Who's opinion would you trust?  A friend of a friend or some greedy for-profit corporation?
+
+By leveraging some of the ideas implemented in Namecoin that feedback and reputation could be amended over time -- this means that you could essentially agree to show payment schedule performance until the loan was satisfied or discharged and then simply indicate an overall status after some period of time.
+
