@@ -72,3 +72,10 @@ Who's opinion would you trust?  A friend of a friend or some greedy for-profit c
 
 By leveraging some of the ideas implemented in Namecoin that feedback and reputation could be amended over time -- this means that you could essentially agree to show payment schedule performance until the loan was satisfied or discharged and then simply indicate an overall status after some period of time.
 
+IDCOINS AS A PREDICTION MARKET DRIVEN DNS REPLACEMENT
+
+Here's a radical idea in DNS service that even #Namecoin doesn't support: you allow any and everyone to register ANY name they want and then you just surf based on your Web of Trust recommendations.
+
+It eliminates the incentive of cyber-squatters and decimates the intellectual property fights over domain names -- it means everyone could have a "disney dot com" if they wanted to but the system would would react based on reputation feedback where the source of truth was within whatever degrees of separation you elected.
+
+
