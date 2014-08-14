@@ -76,6 +76,8 @@ IDCOINS AS A PREDICTION MARKET DRIVEN DNS REPLACEMENT
 
 Here's a radical idea in DNS service that even #Namecoin doesn't support: you allow any and everyone to register ANY name they want and then you just surf based on your Web of Trust recommendations.
 
-It eliminates the incentive of cyber-squatters and decimates the intellectual property fights over domain names -- it means everyone could have a "disney dot com" if they wanted to but the system would would react based on reputation feedback where the source of truth was within whatever degrees of separation you elected.
+It eliminates the incentive of cyber-squatters and decimates the intellectual property fights over domain names -- it means everyone could have a "disney dot com" if they wanted to but the system would react based on reputation feedback where the source of truth was within whatever degrees of separation you elected.
 
 We contemplate an OpenID based provider service that would allow sites to embed universal "like/dislike" buttons within their content that would permit people easy/authenticated access to spend coins on validating content.
+
+Feedback comments could be stored in local "wallets" or in a P2P environment with designated trust third-parties (simple replication) -- the content author could elect to amend or delete their content as they see fit -- the main chain could use a UUID as the reference to ask the network to fetch the content from an authoritative source.
