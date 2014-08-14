@@ -78,4 +78,4 @@ Here's a radical idea in DNS service that even #Namecoin doesn't support: you al
 
 It eliminates the incentive of cyber-squatters and decimates the intellectual property fights over domain names -- it means everyone could have a "disney dot com" if they wanted to but the system would would react based on reputation feedback where the source of truth was within whatever degrees of separation you elected.
 
-
+We contemplate an OpenID based provider service that would allow sites to embed universal "like/dislike" buttons within their content that would permit people easy/authenticated access to spend coins on validating content.
