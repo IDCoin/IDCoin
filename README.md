@@ -81,3 +81,13 @@ It eliminates the incentive of cyber-squatters and decimates the intellectual pr
 We contemplate an OpenID based provider service that would allow sites to embed universal "like/dislike" buttons within their content that would permit people easy/authenticated access to spend coins on validating content.
 
 Feedback comments could be stored in local "wallets" or in a P2P environment with designated trust third-parties (simple replication) -- the content author could elect to amend or delete their content as they see fit -- the main chain could use a UUID as the reference to ask the network to fetch the content from an authoritative source.
+
+IDCOINS AS AN ANTI-SPAM PLUGIN
+
+Given the proposed generic namespace, IDCoins could be used as a SENDMAIL plugin to determine IP address reputation
+
+IDCOINS AS LICENSE PLATE REPUTATION
+
+A generic reputation namespace could be used to provide feedback for drivers or people who park like jerks ;-)
+
+Imagine an ap that you could snap a picture, OCR the license plate number and then vote to feedback that identity.
