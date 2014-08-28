@@ -3,7 +3,7 @@ IDCoin
 
 Identity and Reputation Cryptocurrency Coinbase Supporting a Web of Trust
 
-This is an exploratory concept Bitcoin-like system based in part on GPG/PGP with a Degrees of Separation Web of Trust as well as reputation based on txfee's to be paid to miners.
+This is an exploratory concept Bitcoin-like system based in part on ideas found in GPG/PGP with a Degrees of Separation Web of Trust as well as reputation based on txfee's to be paid to miners.
 
 Gathering feedback right now at https://startjoin.com/IDCoin
 
@@ -19,7 +19,7 @@ IDCOIN will be designed to be an 80/20 Proof of Stake / Proof of Work based bloc
 
 The generation and addition of a GPG/PGP key will suffice as the "proof of work" as well as the "key signing" of other members keys. The system will be designed to award coins based on addition of validated keys, the signing of additional keys to build out the Web of Trust.
 
-We are essentially creating a new system of record for VERIFIED GPG & PGP keys.
+We are essentially creating a new system of record for VERIFIED ECC based GPG & PGP keys.
 
 Reputation will be leveraged through transactions, whereby Transaction Fee's will be used to "vote with your coins."
 
