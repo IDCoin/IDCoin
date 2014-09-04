@@ -23,6 +23,10 @@ This would provide an instant world wide system to support email encryption usin
 
 Our plan is to spin up a TESTNET implementation within six-months and launch a year from now at a World Wide IDCoins conference where we would create the actual genesis block from all the attendees public keys and have a good old fashioned key-signing party to begin our distributed Web of Trust!
 
+Doing a simultaneous key signing party around the world is VERY possible if out of the TESTNET experience we get a solid base of vetted public keys that we can put into the genesis block.  We have been talking about ways to do that remotely.   There is a level above a Notary Public available in the US & Canada known as a “Medallion Stamp” available at financial institutions that is used as a stronger identity vetting mechanism.  Not that we would require it of course, just looking at ways of doing a higher level of vetting for accepting keys.
+
+We think that by leveraging a membership structure in the Strength in Numbers Foundation we could offer an equivalent of a Digital Notary service whereby the foundation would accept keys at varying levels of trust and in turn could certify individuals that meet various levels of proof of identity status for a Digital Notary Public designation within our Web of Trust
+
 *A Coinbase for Identity and Reputation*
 
 IDCOIN will be designed to be an 80/20 Proof of Stake / Proof of Work based blockchain that will establish both Identity as well as Reputation in a public ledger.
