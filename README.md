@@ -3,7 +3,7 @@ IDCoin
 
 Identity and Reputation Cryptocurrency Coinbase Supporting a Web of Trust
 
-This is an exploratory concept Bitcoin-like system based in part on ideas found in GPG/PGP with a Degrees of Separation Web of Trust as well as reputation based on txfee's to be paid to miners.
+This is an exploratory project for a Bitcoin-like system based in part on ideas found in GPG/PGP with a Degrees of Separation Web of Trust as well as reputation based on txfee's to be paid to miners.
 
 Gathering feedback right now at https://startjoin.com/IDCoin
 
