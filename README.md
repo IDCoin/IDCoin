@@ -1,3 +1,5 @@
+[PRE-WHITEPAPER NOTES]
+
 IDCoin
 ======
 
