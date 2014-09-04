@@ -23,11 +23,11 @@ This would provide an instant world wide system to support email encryption usin
 
 Our plan is to spin up a TESTNET implementation within six-months and launch a year from now at a World Wide IDCoins conference where we would create the actual genesis block from all the attendees public keys and have a good old fashioned key-signing party to begin our distributed Web of Trust!
 
-A Coinbase for Identity and Reputation
+*A Coinbase for Identity and Reputation*
 
 IDCOIN will be designed to be an 80/20 Proof of Stake / Proof of Work based blockchain that will establish both Identity as well as Reputation in a public ledger.
 
-The generation and addition of a GPG/PGP key will suffice as the "proof of work" as well as the "key signing" of other members keys. The system will be designed to award coins based on addition of validated keys, the signing of additional keys to build out the Web of Trust.
+The generation and addition of a GPG/PGP key will suffice as the "proof of work" as well as the "key signing" of other members keys. The system will be designed to award coins based on addition of validated keys, the signing of additional keys to build out the Web of Trust.  By using encrpyted email you set a very high bar when combined with a CAPTCHA like challenge/response system to slow down potential Sybil attacks.
 
 We are essentially creating a new system of record for VERIFIED ECC based GPG & PGP keys.
 
@@ -81,6 +81,10 @@ What this means is that we could create an open/public ledger that could render 
 Who's opinion would you trust?  A friend of a friend or some greedy for-profit corporation?
 
 By leveraging some of the ideas implemented in Namecoin that feedback and reputation could be amended over time -- this means that you could essentially agree to show payment schedule performance until the loan was satisfied or discharged and then simply indicate an overall status after some period of time.
+
+IDCOINS SHOW PROVENANCE
+
+Since the inputs and outputs can be easily traced back to the origin you could in theory discover ASTROTURFING whereby one individual distributes coins that are in turn spent back to increase positive feedback on a self-serving transaction.
 
 IDCOINS AS A PREDICTION MARKET DRIVEN DNS REPLACEMENT
 
