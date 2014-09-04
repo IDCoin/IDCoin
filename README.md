@@ -13,6 +13,16 @@ Twitter: https://twitter.com/IDCoins
 
 Facebook: https://facebook.com/IDCoins
 
+*UPDATED*
+
+Our current plan is to use part of crowdsourced funds to pay a BOUNTYSOURCE to the OpenGPG developers to add in support for the Bitcoin like ECC keys called out RFC 6637 - Elliptic Curve Cryptogrpahy in PGP
+
+http://tools.ietf.org/html/rfc6637
+
+This would provide an instant world wide system to support email encryption using little more than your Bitcoin payment addresses!
+
+Our plan is to spin up a TESTNET implementation within six-months and launch a year from now at a World Wide IDCoins conference where we would create the actual genesis block from all the attendees public keys and have a good old fashioned key-signing party to begin our distributed Web of Trust!
+
 A Coinbase for Identity and Reputation
 
 IDCOIN will be designed to be an 80/20 Proof of Stake / Proof of Work based blockchain that will establish both Identity as well as Reputation in a public ledger.
