@@ -15,6 +15,10 @@ Twitter: https://twitter.com/IDCoins
 
 Facebook: https://facebook.com/IDCoins
 
+Freenode: #idcoins
+
+Skype: The_Little_Duke
+
 *UPDATED*
 
 Our current plan is to use part of crowdsourced funds to pay a BOUNTYSOURCE to the OpenGPG developers to add in support for the Bitcoin like ECC keys called out RFC 6637 - Elliptic Curve Cryptogrpahy in PGP
