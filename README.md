@@ -25,6 +25,8 @@ Our current plan is to use part of crowdsourced funds to pay a BOUNTYSOURCE to t
 
 http://tools.ietf.org/html/rfc6637
 
+Provisionally enabled in:  https://code.google.com/p/gnupg-ecc/
+
 This would provide an instant world wide system to support email encryption using little more than your Bitcoin payment addresses!
 
 Our plan is to spin up a TESTNET implementation within six-months and launch a year from now at a World Wide IDCoins conference where we would create the actual genesis block from all the attendees public keys and have a good old fashioned key-signing party to begin our distributed Web of Trust!
