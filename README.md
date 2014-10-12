@@ -21,7 +21,7 @@ Skype: The_Little_Duke
 
 * 2014-10-12 *
 
-Research continues!  The current thought is to have IDENTITY SERVERS accept PGP keys and send an ecrypted email to the individual to decrypt and click on a link inside to confirm receipt an in return will receive an IDCOIN to their wallet/key ring.
+Research continues!  The current thought is to have IDENTITY SERVERS accept PGP keys and send an ecrypted email to the individual to decrypt and click on a link inside to confirm receipt and in return will receive an IDCOIN to their wallet/key ring.
 
 From here, the individual would be permitted to STAKE additional coins that are meant to be used for REPUTATIONAL EVENTS, which can include signing other peoples keys.
 
