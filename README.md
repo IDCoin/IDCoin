@@ -19,6 +19,23 @@ Freenode: #idcoins
 
 Skype: The_Little_Duke
 
+* 2014-10-12 *
+
+Research continues!  The current thought is to have IDENTITY SERVERS accept PGP keys and send an ecrypted email to the individual to decrypt and click on a link inside to confirm receipt an in return will receive an IDCOIN to their wallet/key ring.
+
+From here, the invididual we be permitted to STAKE additional coins that are meant to be used for REPUTATIONAL EVENTS, which can include signing other peoples keys.
+
+The more coins you accrue in your primary IDCOIN account, the more coins you are permitted to stake.   This is a means of testing/showing MOJO.
+
+A normalized VOTE on a reputation event could be represented by .00000001 - .99999999 as a TXFEE 
+
+To encourage transactions the coins could have a DECAY built such the holders would have to "STAKE OR DIE" so that the new coins being generated would eventually replace those coins that are expiring.
+
+Very simply the IDENTITY SERVER could periodically perform a "PROOF OF IDENTITY" test by sending a new encrypted email to the KEY HOLDER and then reward for ACKNOWLEDGEMENT.
+
+This means that even if an individual let their initial IDCOIN expire and had not staked new coins, the system could replenish the holder at the next POI interval.
+
+
 *UPDATED*
 
 Our current plan is to use part of crowdsourced funds to pay a BOUNTYSOURCE to the OpenGPG developers to add in support for the Bitcoin like ECC keys called out RFC 6637 - Elliptic Curve Cryptogrpahy in PGP
