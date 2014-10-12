@@ -23,7 +23,7 @@ Skype: The_Little_Duke
 
 Research continues!  The current thought is to have IDENTITY SERVERS accept PGP keys and send an ecrypted email to the individual to decrypt and click on a link inside to confirm receipt an in return will receive an IDCOIN to their wallet/key ring.
 
-From here, the invididual we be permitted to STAKE additional coins that are meant to be used for REPUTATIONAL EVENTS, which can include signing other peoples keys.
+From here, the individual would be permitted to STAKE additional coins that are meant to be used for REPUTATIONAL EVENTS, which can include signing other peoples keys.
 
 The more coins you accrue in your primary IDCOIN account, the more coins you are permitted to stake.   This is a means of testing/showing MOJO.
 
