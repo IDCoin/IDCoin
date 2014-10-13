@@ -19,6 +19,18 @@ Freenode: #idcoins
 
 Skype: The_Little_Duke
 
+* 2014-10-13 *
+
+Here's how to VOTE with your coins. Send .01 - .99 (or any amount from .0000001-.99999999) to any address and let the TXFEE represent the MAGNITUDE of your rank.
+
+The .01 - .99 represents the normalized range of values in order to baseline and quantify the feedback -- e.g. from 1% to 99% satisfaction.
+
+If I didn't like something I could send .01 coins to an address but send 10 coins as the TX fee to signal my displeasure with the exchange.
+
+Or if I really liked dealing with a person, I could send .99 coins to them and 5 coins to the miners to represent a 5-STAR rating.
+
+Then we can look at all the transactions on an address, see who sent coins in and what score they gave -- we can then use the Web of Trust lens to determine how much credibility we put in those votes.
+
 * 2014-10-12 *
 
 Research continues!  The current thought is to have IDENTITY SERVERS accept PGP keys and send an ecrypted email to the individual to decrypt and click on a link inside to confirm receipt and in return will receive an IDCOIN to their wallet/key ring.
