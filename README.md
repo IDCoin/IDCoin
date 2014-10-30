@@ -19,6 +19,12 @@ Freenode: #idcoins
 
 Skype: The_Little_Duke
 
+* 2014-10-30 *
+
+"Predictable Hard Forks" -- a method of Automatic Garbage Collection in public block chains
+
+A blockchain system could periodically perform a "garbage collection" process that essentially recreated it's on genesis block, leading to a new "hard fork" in the chain.  In theory the system could verifiably run through and "tally" the open outputs and simply coalesce them into a last known state.  This could be useful for assuring privacy and anonymity periodically.  For IDCoins, this process could be used for removing from the ledger ultra low scored content (so called "ban-score" rated events) -- this would provide a mechanism for consensus driven "memory loss"
+
 * 2014-10-13 *
 
 Here's how to VOTE with your coins. Send .01 - .99 (or any amount from .0000001-.99999999) to any address and let the TXFEE represent the MAGNITUDE of your rank.
