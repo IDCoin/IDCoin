@@ -1,3 +1,5 @@
+<h2>IDCoins : A Web of Trust Blockchain for Identity and Reputation</h2>
+
 The official white paper is now being assembled from the nearly two years of research and hundreds of hours of convesations we've had.  The goal is to have a first draft ready for review by December 1, 2014.
 
 Book mark this link and send us comments/questions!
