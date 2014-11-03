@@ -1,3 +1,23 @@
+The official white paper is now being assembled from the nearly two years of research and hundreds of hours of convesations we've had.  The goal is to have a first draft ready for review by December 1, 2014.
+
+Book mark this link and send us comments/questions!
+
+https://docs.google.com/document/d/1UIbYc6swFKA5p0y26WG0RZMZC296zZuZx19fBb33wHY/edit?usp=sharing
+
+
+The StartJoin bootstrap exceed it's crowdfunding raise to put the initial infrastructure online and we'll be working to turn up the first prototype Identity Server as well as the wiki and redmine services so that we can better handle documentation, bug and feature requests!
+
+Thank you again for your interest in our project!  We look forward to meeting you in the Web of Trust :-)
+
+Sincerely,
+
+David V Duccini
+Executive Director
+Strength in Numbers Foundation
+A non-profit digital trust
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 [PRE-WHITEPAPER NOTES]
 
 IDCoin
