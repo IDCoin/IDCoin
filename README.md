@@ -4,7 +4,7 @@ The official white paper is now being assembled from the nearly two years of res
 <br>
 Book mark this link and send us comments/questions!
 <br>
-https://docs.google.com/document/d/1UIbYc6swFKA5p0y26WG0RZMZC296zZuZx19fBb33wHY/edit?usp=sharing
+http://bit.ly/idcoins
 <br>
 The StartJoin bootstrap exceed it's crowdfunding raise to put the initial infrastructure online and we'll be working to turn up the first prototype Identity Server as well as the wiki and redmine services so that we can better handle documentation, bug and feature requests!
 <br>
