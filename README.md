@@ -17,8 +17,6 @@ Executive Director
 Strength in Numbers Foundation
 A non-profit digital trust
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 [PRE-WHITEPAPER NOTES]
 
 IDCoin
