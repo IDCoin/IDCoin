@@ -40,6 +40,12 @@ Freenode: #idcoins
 
 Skype: The_Little_Duke
 
+* 2014-11-07 *
+
+"Time and Membership Bound Voting"
+
+I’ve also recently been engaged by Rosa Shores & Gabe Higgins to explore the potential for leveraging the platform in support of their Clearvoter project that they are collaborating with Lucas Overby on.  From those conversations we have added additional use cases to our model that would extend our concept of a “reputational event” to a potentially time & group bound vote.  The basic model would leverage the Web of Trust to verify that a senders address had been signed by a given group or organization in order to accept its transacational vote on the chain.  Basically what it means for Clearvoter is you could have an election judge essentially certify your IDCoin as being valid in a particular jurisdiction which would then grant it privileges to send IDCoins to specific restricted events.   It’s a great idea and has broad application, where you could essentially host everything from a member based community service groups voting on projects to having corporations hold shareholder votes on the IDCoin chain.
+
 * 2014-10-30 *
 
 "Predictable Hard Forks" -- a method of Automatic Garbage Collection in public block chains
